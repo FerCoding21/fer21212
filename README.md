@@ -32,6 +32,7 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![.NET]( https://img.shields.io/badge/.NET-%2300599C.svg?style=for-the-badge&logoColor=white&color=blue)
     ![Java]( https://img.shields.io/badge/Java-yellow?style=for-the-badge&logoColor=white&color=yellow)
+  ![MySql](https://img.shields.io/badge/MySql-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
@@ -60,8 +61,11 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![NetBeans](https://img.shields.io/badge/Net%20Beans-yellow?style=for-the-badge&logo=apachenetbeanside&logoColor=white&color=red)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=eclipseide&logoColor=white&color=purple)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=eclipseide&logoColor=white&color=purple)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=red&color=white)
+
+
   
 
 
